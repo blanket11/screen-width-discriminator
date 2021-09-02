@@ -13,10 +13,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.private:blanket11/screen-width-discriminator.git"
+    "url": "git+https://github.com/blanket11/screen-width-discriminator.git"
   },
-  "keywords": [],
-  "author": "",
+  "homepage": "https://github.com/blanket11/screen-width-discriminator#readme",
+  "keywords": [
+    "viewport",
+    "detector",
+    "screen",
+    "media query",
+    "mobile",
+    "library"
+  ],
+  "author": "blanket11 <bkweb11k@gmail.com> (https://push.tokyo/)",
   "license": "MIT",
   "dependencies": {
     "typescript": "^4.4.2"
